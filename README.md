@@ -5,3 +5,12 @@ All resources listed are either in the public domain or made freely available by
 at jody@jodylecompte.com
 
 ## Bibles
+
+* [YouVersion Bible](https://bible.com) 
+* [Bible Gateway](https://biblegateway.com)
+* [BibleRef](https://www.bibleref.com/)
+* [Blue Letter Bible](https://www.blueletterbible.org/)
+
+## Confessions
+
+## Creeds
