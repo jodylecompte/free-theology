@@ -12,6 +12,12 @@ All resources listed are either public domain or made freely accessible by the p
 * [King James Bible Online](https://www.kingjamesbibleonline.org) - Forsooth! Thee finest Bible forsooth-ly in ye Olde English tongue.
 
 ## Confessions
+* [Westminster Confession of Faith (1646)](https://reformedstandards.com/westminster/wcf.html)
+* [The Scottish Confession (1560)](https://reformedstandards.com/scottish/scots-confession.html)
+* [The Belgic Confession of Faith (1566)](https://reformedstandards.com/three-forms-of-unity/belgic-confession.html)
+* [The London Baptist Confession of Faith (1689)](https://reformedstandards.com/second-london/1689-confession.html)
+* [The Second Helvetic Confession(1562)](https://reformedstandards.com/swiss/second-helvetic.html)
+* [Savoy Declaration of Faith (1658)](https://reformedstandards.com/british/savoy.html)
 
 ## Creeds
 
