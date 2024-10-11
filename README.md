@@ -11,6 +11,12 @@ All resources listed are either public domain or made freely accessible by the p
 * [Blue Letter Bible](https://www.blueletterbible.org/) - Another excellent source for Bible translations and commentary.
 * [King James Bible Online](https://www.kingjamesbibleonline.org) - Forsooth! Thee finest Bible forsooth-ly in ye Olde English tongue.
 
+## Catechisms
+* [Westminster Shorter Catechism (1646)](https://reformedstandards.com/westminster/wsc.html)
+* [Westminster Larger Catechism (1646)](https://reformedstandards.com/westminster/wlc.html)
+* [Heidelberg Catechism (1563)](https://reformedstandards.com/three-forms-of-unity/heidelberg-catechism.html)
+* [Keach's Catechism (1689)](https://reformedstandards.com/second-london/keach.html)
+
 ## Confessions
 * [Westminster Confession of Faith (1646)](https://reformedstandards.com/westminster/wcf.html)
 * [The Scottish Confession (1560)](https://reformedstandards.com/scottish/scots-confession.html)
