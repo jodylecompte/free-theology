@@ -38,3 +38,7 @@ All resources listed are either public domain or made freely accessible by the p
 ## Digital Libraries
 
 - [Monergism](https://www.monergism.com/topics/free-ebooks)
+
+## Courses
+
+- [BiblicalTraining.com](https://www.biblicaltraining.org/)
