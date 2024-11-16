@@ -18,6 +18,10 @@ All resources listed are either public domain or made freely accessible by the p
 - [Westminster Larger Catechism (1646)](https://reformedstandards.com/westminster/wlc.html)
 - [Heidelberg Catechism (1563)](https://reformedstandards.com/three-forms-of-unity/heidelberg-catechism.html)
 - [Keach's Catechism (1689)](https://reformedstandards.com/second-london/keach.html)
+- [Luther's Large Catechism](https://bookofconcord.org/large-catechism/)
+- [Luther's Small Catechism](https://bookofconcord.org/small-catechism/)
+- [Keach's Catechism](https://reformedstandards.com/second-london/keach.html)
+- [Calvin's Catechism](https://www.apuritansmind.com/creeds-and-confessions/calvins-catechism-by-dr-john-calvin/)
 
 ## Confessions
 
