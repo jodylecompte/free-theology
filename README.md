@@ -56,3 +56,8 @@ All resources listed are either public domain or made freely accessible by the p
 
 - [Learn to Read New Testament Greek - David Alan Black](https://www.youtube.com/playlist?list=PL9OBFGB6I8imj9mXHCvV1YpNSWI-0tXxL)
 - [BHAcademic Free Study Resources](https://bhacademic.bhpublishinggroup.com/beginninggreek/#resources)
+
+## YouTube
+
+- [Bible Project](https://www.youtube.com/@bibleproject)
+- [Verse by Verse Minisitries](https://versebyverseministry.org/)
