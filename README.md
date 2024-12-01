@@ -42,7 +42,17 @@ All resources listed are either public domain or made freely accessible by the p
 ## Digital Libraries
 
 - [Monergism](https://www.monergism.com/topics/free-ebooks)
+- [Divinity Archive](https://divinityarchive.com/handle/11258/628)
+- [Christian Classics Ethereal Library (CCEL)](https://www.ccel.org/)
+- [Directory of Open Access Books: Religion](https://doabooks.org/doab?func=subject&cpId=16&uiLanguage=en)
+- [Global Digital Library on Theology and Ecumenism](http://www.globethics.net/web/gtl)
+- [HathiTrust](https://www.hathitrust.org/)
 
 ## Courses
 
 - [BiblicalTraining.com](https://www.biblicaltraining.org/)
+
+## Koine Greek
+
+- [Learn to Read New Testament Greek - David Alan Black](https://www.youtube.com/playlist?list=PL9OBFGB6I8imj9mXHCvV1YpNSWI-0tXxL)
+- [BHAcademic Free Study Resources](https://bhacademic.bhpublishinggroup.com/beginninggreek/#resources)
