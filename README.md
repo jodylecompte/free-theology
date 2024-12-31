@@ -4,6 +4,8 @@ Explore a curated collection of Bible and theology resources, all completely fre
 
 All resources listed are either public domain or made freely accessible by the publishers. If you discover any copyrighted material listed in error, please contact me at jody@jodylecompte.com.
 
+## Apps
+- Reformed Theological Seminary - [IOS](https://apps.apple.com/us/app/reformed-theological-seminary/id476373303), [Android](https://play.google.com/store/apps/details?id=com.subsplash.thechurchapp.reformedtheologicalseminary2&hl=en_US&pli=1)
 ## Bibles
 
 - [YouVersion Bible](https://bible.com) - The go-to app for digital Bible reading, offering a vast selection of translations and reading plans.
