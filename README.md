@@ -14,6 +14,11 @@ All resources listed are either public domain or made freely accessible by the p
 - [Blue Letter Bible](https://www.blueletterbible.org/) - Another excellent source for Bible translations and commentary.
 - [King James Bible Online](https://www.kingjamesbibleonline.org) - Forsooth! Thee finest Bible forsooth-ly in ye Olde English tongue.
 
+## Biblical Languages
+Ancient language split into separate repos. 
+
+- [Koine Greek](https://github.com/jodylecompte/koine-greek-resources)
+
 ## Catechisms
 
 - [Westminster Shorter Catechism (1646)](https://reformedstandards.com/westminster/wsc.html)
@@ -53,10 +58,6 @@ All resources listed are either public domain or made freely accessible by the p
 ## Courses
 
 - [BiblicalTraining.com](https://www.biblicaltraining.org/)
-
-## Koine Greek
-
-Koine Greek resources, due to eventual scale, have been migrated [here](https://github.com/jodylecompte/free-koine-greek).
 
 ## YouTube
 
